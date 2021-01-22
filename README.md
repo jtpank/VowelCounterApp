@@ -1,6 +1,6 @@
 # VowelCounterApp
 JS + NodeJS + Html/CSS + herokuapp
 
-See live site: 
+Go to the following link to view the application live:
 
 http://vowelcounterapp.herokuapp.com/
